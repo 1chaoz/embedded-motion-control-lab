@@ -96,7 +96,26 @@ Planned:
 
 Detailed learning notes, simulation results, and experiment reports will be maintained in the `docs/` directory.
 
-## 8. Author
+## 8. Day 01 — PI Controller Experiment
+
+### Learning Notes
+- [Control System Fundamentals](docs/learning-notes/day01_control_basics.md)
+
+### Experiment Report
+- [PI Controller Performance Analysis](docs/experiment-reports/experiment_01_pi_analysis.md)
+
+### MATLAB Files
+- `matlab/PI_Control_Model.slx` — Simulink model
+- `matlab/run_pi_once.m` — Single simulation
+- `matlab/run_pi_sweep.m` — Automated parameter sweep
+- `matlab/analyze_pi_results.m` — Performance analysis
+
+### Experimental Results
+- [Performance Metrics (CSV)](matlab/results/day01/pi_performance_metrics.csv)
+- [Kp Comparison](images/day01/kp_comparison.png)
+- [Ki Comparison](images/day01/ki_comparison.png)
+
+## 9. Author
 
 GitHub: [1chaoz](https://github.com/1chaoz)
 

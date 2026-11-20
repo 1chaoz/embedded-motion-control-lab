@@ -1,0 +1,17 @@
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# Simulink generated files
+*.slxc
+slprj/
+sccprj/
+
+# Backup files
+*.bak
+
+# Windows system files
+Thumbs.db
+desktop.ini
